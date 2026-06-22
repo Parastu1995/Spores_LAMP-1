@@ -37,10 +37,10 @@ The pipeline has been developed and tested on:
 
 ## Outputs
 The pipeline generates:
-- Colocalization ratio per macrophage
-- Colocalization ratio per fungal spore
-- Intensity-based colocalization measurements
-- Summary tables for downstream statistical analysis
+- Intensity-based Colocalization ratio per macrophage
+- Intensity-based Colocalization ratio per fungal spore
+- Object-based Colocalization ratio per macrophage
+- Object-based Colocalization ratio per fungal spore
 
 ## Software and Packages
 The analysis was developed in Python using:
